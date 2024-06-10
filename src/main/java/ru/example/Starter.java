@@ -17,6 +17,5 @@ public class Starter {
         System.out.println(num.doubleMult());
         System.out.println(num.doubleValue());// sout молчит
         System.out.println(num.doubleMult());
-
     }
 }
